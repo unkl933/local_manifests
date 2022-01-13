@@ -7,8 +7,8 @@
 
   <!-- Device Specific -->
   <project name="kernel_xiaomi_msm8996-3.18" path="kernel/xiaomi/msm8996" remote="BarokahProject" revision="Sabelas" />
-  <project name="android_device_xiaomi_gemini" path="device/xiaomi/gemini" remote="BarokahProject" />
-  <project name="android_device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="BarokahProject" />
+  <project name="device_xiaomi_gemini" path="device/xiaomi/gemini" remote="BarokahProject" />
+  <project name="device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="BarokahProject" />
   <project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="BarokahProject" revision="aosp-eleven"/>
 
 </manifest>
