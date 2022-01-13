@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="BarokahProject" fetch="https://github.com/unkl933" revision="Nad-11" />
+
+  <!-- Clang 12 version 12.0.7 -->
+  <project name="android_prebuilts_clang_host_linux-x86_clang-r416183d" path="prebuilts/clang/host/linux-x86/clang-7449660" remote="BarokahProject" clone-depth="1" />
+
+  <!-- Device Specific -->
+  <project name="kernel_xiaomi_msm8996-3.18" path="kernel/xiaomi/msm8996" remote="BarokahProject" revision="Sabelas" />
+  <project name="android_device_xiaomi_gemini" path="device/xiaomi/gemini" remote="BarokahProject" />
+  <project name="android_device_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="BarokahProject" />
+  <project name="proprietary_vendor_xiaomi" path="vendor/xiaomi" remote="BarokahProject" revision="aosp-eleven"/>
+
+</manifest>
