@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote  name="BarokahProject" fetch="https://github.com/unkl933" revision="Nad-11" />
+  <remote  name="BarokahProject" fetch="https://github.com/unkl933" revision="Nad-10" />
   <!-- Device Specific -->
   <project name="kernel_xiaomi_msm8996-3.18" path="kernel/xiaomi/msm8996" remote="BarokahProject" revision="Sabelas" />
   <project name="device_xiaomi_gemini" path="device/xiaomi/gemini" remote="BarokahProject" />
