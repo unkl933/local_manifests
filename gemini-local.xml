@@ -4,6 +4,6 @@
   <!-- Device Specific -->
   <project name="Gemini-kernel" path="kernel/xiaomi/msm8996" remote="BarokahProject" revision="HMP-BFE" />
   <project name="DT_gemini" path="device/xiaomi/gemini" remote="BarokahProject" />
-  <project name="DC_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="BarokahProject" />
+  <project name="DC_xiaomi_msm8996-common" path="device/xiaomi/msm8996-common" remote="BarokahProject" revision="testHM" />
   <project name="DV_vendor_xiaomi" path="vendor/xiaomi" remote="BarokahProject" />
 </manifest>
